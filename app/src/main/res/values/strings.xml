@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeFrame</string>
+    <string name="str_loading">请稍候...</string>
+    <string name="str_fail_retry">点击重试</string>
+    <string name="str_network_error">网络错误了</string>
+    <string name="str_exception_error_info">程序异常退出</string>
+</resources>

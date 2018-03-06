@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1296db</color>
+    <color name="colorPrimaryDark">#176fb9</color>
+    <color name="colorAccent">#1296db</color>
+    <!-- app主色调-->
+    <color name="main_color">#FF1D8AE7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="col_background_color">#FFE8EBF1</color>
+
+    <color name="col_translate">#00000000</color>
+    <color name="col_translucent_black">#DE000000</color>
+    <color name="col_red_light">#E70505</color>
+    <color name="col_grey">#7E8891</color>
+    <color name="col_grey_dark">#757575</color>
+    <color name="col_grey_dark2">#808080</color>
+    <color name="col_grey_dark3">#7F7F7F</color>
+    <color name="col_grey_light">#999999</color>
+    <color name="col_grey_light1">#FFF3F3F3</color>
+    <color name="col_grey_light2">#F0F0F0</color>
+    <color name="col_grey_light3">#D7D7D7</color>
+    <color name="col_grey_light4">#848484</color>
+    <color name="col_grey_light5">#61000000</color>
+    <color name="col_grey_light6">#8AFFFFFF</color>
+    <color name="col_blue">@color/main_color</color>
+    <color name="col_blue_half_trans">#7703A9F4</color>
+    <color name="col_blue_light9">#FF176fB9</color>
+    <color name="col_blue_dark">#01579B</color>
+    <color name="col_blue_light2">#03A9F4</color>
+    <color name="col_blue_light">#00BCD4</color>
+    <color name="col_blue_light3">#039BE5</color>
+    <color name="col_blue_light4">#009bc5</color>
+    <color name="col_blue_light5">#FF1D8AE7</color>
+    <color name="col_blue_light6">#FF53AAE5</color>
+    <color name="col_blue_light7">#3D1D8AE7</color>
+    <color name="col_blue_light8">#1F1D8AE7</color>
+    <color name="col_light_blue1">#ffe5eef5</color>
+    <color name="col_light_blue2">#ff01579b</color>
+    <color name="col_light_yellow">#fffff5e9</color>
+    <color name="col_black">#000000</color>
+    <color name="col_alpha_0a_black">#0A000000</color>
+    <color name="col_alpha_87_black">#87000000</color>
+    <color name="col_alpha_52_black">#52000000</color>
+    <color name="col_alpha_1e_black">#1E000000</color>
+    <color name="col_black1">#DE000000</color>
+    <color name="col_black2">#61000000</color>
+    <color name="col_12percent_black">#1F000000</color>
+    <color name="col_white">#FFFFFF</color>
+    <color name="col_mwhite">#E0FFFFFF</color>
+    <color name="col_white_translate">#61FFFFFF</color>
+    <color name="col_red">#ffff0000</color>
+    <color name="col_deep_red">#B71C1C</color>
+    <color name="col_light_red">#eb6854</color>
+    <color name="col_red_light1">#FFFE555A</color>
+    <color name="col_white_light">#F7F7F7</color>
+    <color name="col_white_light2">#EEEEEE</color>
+    <color name="col_white_dark">#EBEBEB</color>
+    <color name="col_white_dark1">#91C4C4C4</color>
+    <color name="col_white_dark2">#C4C4C4</color>
+    <color name="col_white_dark3">#f3f3f3</color>
+    <color name="col_white_dark4">#E8EBF1</color>
+    <color name="col_white_dark5">#FFECEFF4</color>
+    <color name="col_black_light">#212121</color>
+    <color name="col_black_light2">#494949</color>
+    <color name="col_black_light3">#767676</color>
+    <color name="col_black_light4">#424242</color>
+    <color name="col_black_light5">#c4c4c4</color>
+    <color name="col_black_light6">#0D000000</color>
+    <color name="col_black_light7">#8A000000</color>
+    <color name="col_green_light1">#FF0AAE87</color>
+    <color name="col_grey_line">#ffc3c2c3</color>
+    <drawable name="cacheColor">#00000000</drawable>
+    <color name="col_trans_red2">#1dff7878</color>
+    <color name="col_gray_white">#FFECEFF1</color>
+
+    <!--processbutton-->
+    <color name="blue_pressed">#ff0099cc</color>
+    <color name="blue_normal">#ff33b5e5</color>
+    <color name="green_complete">#ff99cc00</color>
+    <color name="purple_progress">#ffaa66cc</color>
+    <color name="red_error">#ffff4444</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="col_orange">#FF9D2F</color>
+    <color name="holo_red_light">#ffff4444</color>
+
+    <!--setting-->
+    <color name="setting_text_color">#757575</color>
+    <color name="setting_text_color_special">#42bff7</color>
+    <color name="setting_item_background">@color/col_white</color>
+
+    <color name="calendar_bg_start">#3c3c3c</color>
+    <color name="calendar_bg_end">#735757</color>
+    <color name="calendar_date_bg">#FF666666</color>
+    <color name="calendar_week_name">#FFCCCCCC</color>
+
+    <color name="col_step_blue">#0097a7</color>
+    <color name="col_step_distance">#f57c00</color>
+    <color name="col_step_calories">#df0762</color>
+
+    <color name="col_badge_color">#ffff4444</color>
+    <color name="col_red_normal">#F16955</color>
+
+    <color name="col_chat_send_bg">#FFF3E0</color>
+    <color name="col_chat_receive_bg">#FFFFFF</color>
+    <color name="col_chat_bg">#EBEBEB</color>
+    <color name="col_search_stroke">#FFE4E4E4</color>
+    <color name="col_search_bg">#FFF2F2F2</color>
+
+
+    <color name="col_text_key_hint">#3D000000</color>
+
+
+    <!-- 发送文件相关 -->
+    <color name="send_file_title_color">#545454</color>
+    <color name="send_file_divider_color">#dcdcdc</color>
+    <color name="chat_item_file_size">#989898</color>
+    <color name="send_file_desc_color">#808080</color>
+    <color name="send_file_action_bar">#767676</color>
+    <color name="send_file_action_bar_selected">#3f82dd</color>
+    <color name="me_split_line_color">#d0d0d0</color>
+
+
+    <color name="col_light_gray2">#a9DBDBDB</color>
+    <color name="col_gray">#CCCCCC</color>
+    <color name="col_gray1">#FFCFD2D6</color>
+    <color name="col_light_gray">#DBDBDB</color>
+    <color name="col_dark_gray">#383838</color>
+    <color name="col_2D70B2">#2D70B2</color>
+    <color name="col_deep_gray">#999999</color>
+
+    <color name="col_dark_gray2">#a1383838</color>
+
+    <color name="col_custom_text">#666666</color>
+    <color name="col_deep_blue">#212733</color>
+    <color name="col_title_black">#212733</color>
+    <color name="col_dialog_text">#8d8d8d</color>
+    <color name="col_dialog_blue">#0288d1</color>
+
+    <color name="col_main_bg">#ebebeb</color>
+    <color name="col_divider">#f3f3f3</color>
+    <color name="col_dark_black">#DD000000</color>
+    <color name="col_map_black">#DAFFFFFF</color>
+
+    <color name="col_light_black">#89000000</color>
+    <color name="col_light_black2">#66000000</color>
+
+    <color name="col_light_blue">#009DC5</color>
+    <color name="col_pressed_gray">#4cc4c4c4</color>
+
+    <color name="col_light_blue3">#3a1296db</color>
+    <color name="col_light_red3">#1aeb6854</color>
+
+    <color name="col_line">#1f000000</color>
+
+    <color name="col_btn_blue">#1d8ae7</color>
+    <color name="col_time_black">#87000000</color>
+    <color name="col_time_black1">#de000000</color>
+    <color name="col_time_title_bg">#0a000000</color>
+    <color name="col_bg_grag">#E8EBF1</color>
+    <color name="col_achievement_sub_title">#8a000000</color>
+    <color name="col_divide">#1f000000</color>
+    <color name="col_divide1">#3d000000</color>
+    <color name="col_sub_title_bg">#fff7f7f7</color>
+    <color name="col_ranking_text">#ff8e2b00</color>
+    <color name="col_rect_blue">#ff1d8ae7</color>
+    <color name="col_rect_org">#ffff962b</color>
+
+    <color name="col_mask">#1f000000</color>
+
+    <color name="col_work_menu_back">#eceff4</color>
+    <color name="col_list_title_bg">#ECEFF4</color>
+    <color name="col_list_title">#ADAFB3</color>
+
+    <color name="col_over_date">#fff45e62</color>
+    <color name="col_reach_date">#ffff962b</color>
+    <color name="col_todo">#ff808080</color>
+
+    <color name="col_orange_light">#fff89b59</color>
+    <color name="col_orange_dark">#ffec7b30</color>
+    <color name="col_alims_blue_light">#ff4ca5f1</color>
+    <color name="col_alims_green">#ff0aae87</color>
+    <color name="col_alims_gray1">#FFF4F6FB</color>
+    <color name="color_alims_red">#ff5f62</color>
+    <color name="col_alims_orange">#fffe8000</color>
+</resources>
